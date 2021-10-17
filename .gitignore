@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/.ipynb_checkpoints
+/FRA.csv
+/GBR.csv
+/ITA.csv
+/tate_dataset.csv
+/wbdata.xlsx
+/tate_dataset.pkl
+/weather-data
